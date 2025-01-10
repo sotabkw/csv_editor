@@ -21,18 +21,12 @@ A modern, user-friendly CSV editor built with React and TypeScript that supports
 
 ### Installation
 
-1. Clone the repository:
-```shell
-$ git clone <repository-url>
-$ cd csv-editor
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```shell
 $ npm install
 ```
 
-3. Start the development server:
+2. Start the development server:
 ```shell
 $ npm run dev
 ```
